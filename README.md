@@ -8,9 +8,9 @@
 |14||||
 |15||||
 |16| | | Main |
-|17||||
+|17| Tiger || Bup |
 |18| Antti | | H |
-|19||||
+|19|| Paav ||
 |20||||
 
 | Member | Arrive | Depart |
@@ -18,11 +18,11 @@
 | Headcase | 12, 13, or 14 | 20 |
 | Steve | | |
 | Aaron | | |
-| Paav | | |
+| Paav | 18 | 20 |
 | H | 18, 19 | |
 | Antti | 17 | 20 |
 | Tiger | 15 | 20 |
-| Bup | | |
+| Bup | 16 | 20 |
 | Yib | 16 | 20 |
 | Matti | 16 | 20 |
 | Dunner | 16 | 20 |
